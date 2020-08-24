@@ -1,5 +1,3 @@
-__authors__ = ['1493112','1392437', '1420576']
-__group__ = 'DL.15'
 
 import numpy as np
 import math
